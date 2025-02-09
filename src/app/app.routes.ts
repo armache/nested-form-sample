@@ -4,12 +4,7 @@ import { PersonalDetailsComponent } from './features/personal-details/personal-d
 import { CompanyDetailsComponent } from './features/company-details/company-details.component';
 
 export const routes: Routes = [
-    // {
-    //     path: '',
-    //     component: AppComponent,
-    // },
     {
-        //path: 'personal-details',
         path: '',
         component: PersonalDetailsComponent,
     },
